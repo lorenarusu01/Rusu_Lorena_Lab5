@@ -10,3 +10,15 @@ C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Medii\AutoLotModel\obj\Debug\Au
 C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Medii\AutoLotModel\obj\Debug\AutoLotModel.csproj.CopyComplete
 C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Medii\AutoLotModel\obj\Debug\AutoLotModel.dll
 C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Medii\AutoLotModel\obj\Debug\AutoLotModel.pdb
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\AutoLotModel.pdb
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\EntityFramework.dll
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\EntityFramework.xml
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CopyComplete
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\obj\Debug\AutoLotModel.dll
+C:\Users\Win10\Desktop\Proiecte, teme\An 3 sem 1\Rusu_Lorena_Lab5\AutoLotModel\obj\Debug\AutoLotModel.pdb
